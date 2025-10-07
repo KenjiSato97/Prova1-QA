@@ -70,10 +70,6 @@ A seguir estão as regras de negócio implementadas na classe `LoanService` e va
     ```
     O comando acima também irá gerar um relatório de cobertura de testes no terminal.
 
-## 📦 Dependências (requirements.txt)
+## Observações
 
-```
-pytest
-pytest-mock
-pytest-cov
-```
+Para construção do projeto foi utilizado um código de biblioteca pre-existente, copilot no VSCode, Gemini para revisão e organização tanto do código quanto do readme.
